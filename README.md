@@ -5,4 +5,7 @@
 
 > ### Quais as contribuições do projeto para o meu desenvolvimento ?
 - Diferença entre aprendizado supervisionado e não supervisionado.
-- Algoritmo de Regressão Linear.
+- Algoritmo de regressão linear simples.
+- Algoritmo de descida do gradiente para otimização de funções de custo.
+- Algoritmo de regressão linear múltipla.
+- Benefícios da vetorização e paralelismo na construção de algoritmos.
